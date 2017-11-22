@@ -1,0 +1,17 @@
+Ali        /20
+Miguel        /20
+User        /20
+Ali        /20
+Miguel        /20
+User        /20
+Ali        /20
+Miguel        /20
+User        /20
+Ali        /20
+Miguel        /20
+User        /20
+User        /30
+User        /0
+Coso        /40
+User        /0
+User        /0

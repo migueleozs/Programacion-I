@@ -1,0 +1,11 @@
+   //El boton de start
+    private void ventanas() {
+        fondo = new JLabel();
+        fondo.setBounds(50, 100, 200, 100);
+        URL url = getClass().getResource("inicio/button2.png");
+        ImageIcon imagen = new ImageIcon(url);
+        Icon icon = new ImageIcon(imagen.getImage().getScaledInstance(fondo.getWidth(),fondo.getHeight(),fondo.getHeight()));
+        fondo.setIcon(icon);
+        fondo.repaint();
+        
+    }
